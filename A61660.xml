@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Friends and all people, consider grieve not Gods Spirit, nor limit the Holy One ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61660</idno>
+            <idno type="STC">Wing S5706</idno>
+            <idno type="STC">ESTC R32676</idno>
+            <idno type="EEBO-CITATION">12744955</idno>
+            <idno type="OCLC">ocm 12744955</idno>
+            <idno type="VID">93228</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61660)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93228)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1537:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Friends and all people, consider grieve not Gods Spirit, nor limit the Holy One ...</title>
+                  <author>Stodart, Amos.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title taken from first paragraph.</note>
+                  <note>Signed on p. 3: Amort Stodart, John Feilder, Bryan Wilkinson, Ellis Hookes.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="letter">
+            <pb facs="tcp:93228:1"/>
+            <pb n="1" facs="tcp:93228:1" rendition="simple:additions"/>
+            <opener>
+               <salute>Friends, and all People,</salute>
+            </opener>
+            <p>CConſider: Grieve not Gods Spirit, nor limit the Holy One; hurt not his Annointed Pro<g ref="char:EOLhyphen"/>phets, do his People no harm; deſtroy not the Inheritance of God; Afflict not the Righte<g ref="char:EOLhyphen"/>ous, neither ſtop your Ears at the Cry of the Oppreſ<g ref="char:EOLhyphen"/>ſed; neither root out the Saints of the Moſt High; take not away the Lives of the Innocent and Juſt from the Earth; neither deſtroy the Inheritance of God; For the Righteous that ſuffer, are bleſſed: Neither oppreſs the Meek of the Earth, nor ſuch as would live peaceably in the Land. Oh! be not a praiſe to the evil-doers, but a terror: Divide Juſtice and Judgement a-right; turn not againſt them that fear the Lords Name; neither let the rude people breake up the Meetings of the Faithful, whoſe delight is in Virtue and Piety, and ſerving the Lord. Think not to ſecure your ſelves by compelling the Lambs of Chriſt to tranſgreſs his Commands, and ſo forcing them into Sin, Evil, and Condemnation; and if you caſt the Lambs of Chriſt into Priſon, Chriſt ſaith, They muſt go into everlaſting Flames of Fire that did not viſit him in Priſon; So conſider whither you muſt go in the end, that caſt him into priſon that wiſhes your good: This we know, the wicked are ſealed to perditi<g ref="char:EOLhyphen"/>on, and decreed for Condemnation, Wrath, Wo, Plagues and Judgements.</p>
+            <p>Therefore let all men fear and tremble before the Moſt High God, for the Righteous are ſealed by the Spirit of Promiſe, to life everlaſting. And this we know, the Scri<g ref="char:EOLhyphen"/>ture ſaith, That no Lyar, Adulterer, Covetous, Idolater, hath any part or inheritance in the Kingdom of G<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="2" facs="tcp:93228:2" rendition="simple:additions"/>that is everlaſting; and that all Dogs, Lyars, and unrigh<g ref="char:EOLhyphen"/>teous ones, and Wicked ones, have their part and portion in the Lake that burns with fire and brimſtone.</p>
+            <p>And take heed again, becauſe God hath given you plenty, eaſe, fulneſs, and bleſſings of the outward Crea<g ref="char:EOLhyphen"/>tion and Creatures, if you turn theſe Mercies not to a right End, the Mighty God of Heaven by his Arm and Power, may bring Sickneſs, Plagues, and ſtrange diſtem<g ref="char:EOLhyphen"/>pers amongſt you; it cannot be otherwiſe looked for: For what Swearing, Curſing, Wickedneſs, Violence, Plea<g ref="char:EOLhyphen"/>ſures, Vanities, people are running into, which carryes them to forget Gods Mercies; Therefore they may look for the Plague. For look into both City and Countrey, and ſee what ſtrange Diſeaſes and Diſtempers are falling among people, which aſtoniſhes them that love God and goodneſs, who are alwayes prepared for the hand of Lord; and of it takes notice; and for the good of all peo<g ref="char:EOLhyphen"/>ple are their deſires and prayers.</p>
+            <p>Remember when you are on your Sick-beds, and Death-beds, when torments, miſeries, and troubles, and anguiſh takes hold upon you for what you do, and did a<g ref="char:EOLhyphen"/>gainſt them that deſire to live godly and righteouſly, and would offend no one in truth and righteouſneſſe, but would do the Will of God, that is pleaſing in his ſight, and keepe in the Commands of Chriſt: And for this Cauſe do they ſuffer by you (that be in proſperity) and the rude people.</p>
+            <p>And look how the Priſons are filled with the righteous and harmleſs ones; and look how your ſtreets are filled with Violence, and unprofitable talkers, and fruits of Unrighteouſneſs, that it is almoſt an hard thing for a ſo<g ref="char:EOLhyphen"/>ber man that loves God and goodneſs, to walk them.</p>
+            <p>Oh how is Modeſty baniſhed, and Sobriety baniſhed, and Virrue, and Goodneſs, and Piety, out of the hearts of people! And how are they filled with deriſion, ſcorn, mocks, threats, and reproaches, with which they load the innocent! Where is the terror to Evil-doers? Oh
+<pb n="3" facs="tcp:93228:2"/>how is that wanting <hi>(to wit)</hi> Righteouſneſs running down the ſtreets like ſtreams! Oh where is the place now for the Innocent, the Lambs of Chriſt, the Annointed ones to be found, but in Goals &amp; Houſes of Corrections, Holes, Dungeons, lying on boards and ſtraw, men and women put together without the bounds of modeſty; nor the li<g ref="char:EOLhyphen"/>berty granted to (ſeveral of) them, as to Murtherers and Felons: Doth this ſhew the power of Godlineſs that was amongſt the Apoſtles in the primitive times? But oh! our hearts are broken for you, that you might ſee your ſelves, and that you might priſe your time while you have it; and do ſay, The Lord lay not theſe things to your Charge, which againſt us you have acted; And can ſay, <hi>Father forgive them, they know not what they do:</hi> And can bear you record, <hi>You have a Zeal, but not according to true knowledge:</hi> For the Apoſtles, and Chriſt, and the Churches in the primitive times, their Zeale never led them to perſecute any, as the <hi>Jews</hi> and <hi>Cain</hi> did, amongſt whom Chriſts entertainment was in the Stable and Man<g ref="char:EOLhyphen"/>ger, as ours is now in the Priſons and Dungeons; but we can ſuffer all theſe things patiently. So the Lord lay not theſe things to your charge in the end, which if he do, they will be heavy; for as it is ſaid, <hi>It were better a Mill<g ref="char:EOLhyphen"/>ſtone were hanged about their necks, and they caſt into the Sea, then to offend one of theſe little ones.</hi> We are friends to all your ſouls, and your eternal good, and deſire the everlaſting good and happineſs of all men upon the Earth, &amp; would that all men ſhould be ſaved, and come to the knowledg of the truth.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Amort Stodart,</hi>
+                     </item>
+                     <item>
+                        <hi>Bryan Wilkinſon,</hi>
+                     </item>
+                     <item>
+                        <hi>John Feilder,</hi>
+                     </item>
+                     <item>
+                        <hi>Ellis Hookes.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="4" facs="tcp:93228:3"/>
+            <p>DId not the Council of the <hi>Jews</hi> give heed unto <hi>Gamaliel</hi>'s Counſel concerning the Apoſtles, whoſe counſel was, <hi>If they were of God, they would ſtand; if not, it would come to nought;</hi> and bid them <hi>take heed, leſt they were found fighters againſt God;</hi> And if it were of God, they could not overthrow it? And to this moderate <hi>Gamaliel</hi> they all agreed, and ſet the Apoſtles at liberty. And <hi>Gamaliel</hi> inſtanced to the Council, <hi>Theudeas</hi> and <hi>Judas</hi> of <hi>Galilee,</hi> which had come to nought; therefore if the Apoſtles were not of God, they would not ſtand. Oh that therewere ſuch a Moderate ſpirit among the Chriſtian Rulers, <hi>(ſo called)</hi> and ſuch a diſtinction as there was in this <hi>Gamaliel,</hi> who will riſe up in judgement againſt ma<g ref="char:EOLhyphen"/>ny that have not his Moderation and Patience; yet in words profeſs themſelves beyond <hi>Gamaliel;</hi> but of his life ſhort, <hi>Acts</hi> 4.</p>
+            <p>
+               <hi>Paul</hi> when he was queſtioned by the chief Captain, whether he was not that <hi>Egyptian</hi> that led out into the wilderneſs the 4000. men that were Murderers, then <hi>Paul</hi> declared he was a <hi>Jew;</hi> &amp; the Captain did not haſtily number him among the <hi>Egyptian</hi> murderers, but ſuffered him to ſpeak to the people; which ſhew<g ref="char:EOLhyphen"/>ed a Noble &amp; Moderate Spirit, <hi>Acts</hi> 21.28. Oh that there was ſuch a ſpirit in them that call themſelves <hi>Chriſtians,</hi> who think themſelvs beyond this Captain in words, but are ſhort of his Moderation. <hi>Ananias,</hi> with the Elders, and <hi>Tertullus</hi> the <hi>Orator,</hi> told <hi>Foelix, that they had found Paula peſtilent fellow, a mover of ſe<g ref="char:EOLhyphen"/>dition;</hi> and yet the moderation of <hi>Faelix</hi> did not de<g ref="char:EOLhyphen"/>liver <hi>Paul</hi> into the <hi>Jews</hi> hands; and he found more moderation among the Heathen, then he did of the
+<pb n="5" facs="tcp:93228:3"/>great profeſſing Jews; for the Jews could not prove thoſe things they accuſed <hi>Paul</hi> of; Neither can theſe things be proved againſt us, that we are Plotters: and if we had but the Liberty that <hi>Paul</hi> had. All that are Priſoners, and all our Accuſers brought face to face before the Rulers, and let us ſee what any one hath a<g ref="char:EOLhyphen"/>gainſt us; for it is below an <hi>Engliſh</hi> man and a Chri<g ref="char:EOLhyphen"/>ſtian, that ſo many ſhould lye in Priſon for the wor<g ref="char:EOLhyphen"/>ſhip of God: And we believe it is contrary to Law that ſo many ſhould be ſent to Priſon, and kept in Priſon, without any Warrant or Mittimus, as there are now about two thouſand in priſon, taken up out of their houſes, ſtreets and beds, many ſober people that deſires to live godly and peaceably, whoſe lives and examples the world cannot bear, though Religi<g ref="char:EOLhyphen"/>on they hold up by the ſame words that declare the ſame life that we live in.</p>
+            <p>And as concerning Meetings, the Phariſees, the Sadduces, and the very Heathen ſuffered the Chri<g ref="char:EOLhyphen"/>ſtians in the primitive Times, to meet upon Hills, Mountains, High-wayes, by the Rivers and Ships, as <hi>Paul</hi> did at <hi>Rome,</hi> where the Emperors Seat was; he was ſuffered to preach two yeares together in his own hired houſe among the Heathen; and Chriſt &amp; the Apoſtles were ſuffered to meet from Houſe to Houſe, and preach in <hi>Jeruſalem</hi> among the Jews, though they met by thouſands. And the Church was in <hi>Aquila</hi> and <hi>Priſcilla</hi>'s Houſe. And the Chri<g ref="char:EOLhyphen"/>ſtians now, that think themſelvs wiſer, fuller grown, and of a greater age then the Churches in the pri<g ref="char:EOLhyphen"/>mitive times, cannot ſuffer the tender people of God to meet in Houſes now, but call it Hereſie: VVill not they riſe up in judgment againſt you, that ſuffer<g ref="char:EOLhyphen"/>ed
+<pb n="6" facs="tcp:93228:4"/>the Apoſtles to meet in that time, beyond whom you profeſs your ſelves to be in words, but are ſhort of their life?</p>
+            <p>And concerning Swearing, our <hi>yea</hi> is <hi>yea,</hi> and <hi>nay, nay;</hi> and if we be found breakers of that, then let us ſuffer as for breaking an <hi>Oath;</hi> now it is evident, that it is for Conſcience-ſake that we cannot ſwear at all: For many hundreds of our Friends have been impri<g ref="char:EOLhyphen"/>ſoned, &amp; ſuffered other wrongs, becauſe they could not ſwear in <hi>Oliver</hi>'s days, and the other changeable Powers ſince him, ſeveral Oaths being put to them: and what we promiſe unto the King, he will finde us more faithful to perform, then many that out of fear turn under every Power, and ſwear to every Power.</p>
+            <p>Is now the Preachers preaching up <hi>Artaxerxes</hi> Decree (a Heathen King) for a Goſpel-Command among Chriſtians, which was onely to the <hi>Jews,</hi> for the building their outward Temple: Oh that men ſhould not bluſh to hear it! What, to baniſh! What, to take away goods and lives from them that do not obey <hi>Artaxerxes</hi> Decree! Might not Chriſt's Do<g ref="char:EOLhyphen"/>ctrine and the Apoſtles convince you? Did he not rebuke the Zeale of ſuch who would have fire to come down from Heaven to conſume ſuch as were contrary-minded to him? And did not the Apoſtle ſay, they <hi>wrestled not with fleſh and blood?</hi> And did not Chriſt ſay, the Temple ſhould be thrown down that was ſet up by <hi>Artaxerxes</hi> Decree, and not one ſtone left upon another? And did not the Apo<g ref="char:EOLhyphen"/>ſtles go into the Temple to bring people off from the Temple, and tel them that the Moſt High dwelt not in Temples made with mens hands, &amp; that their bodies were the Temples of God? And was not <hi>Ste<g ref="char:EOLhyphen"/>phen</hi>
+               <pb n="7" facs="tcp:93228:4"/>ſtoned to death for denying the Temple, &amp; wit<g ref="char:EOLhyphen"/>neſſing Chriſt the Subſtance, <hi>Act.</hi> 7? Yea that Tem<g ref="char:EOLhyphen"/>ple which was ſet up by <hi>Artaxerxes</hi> Decree, &amp; them that did not obey it, were to be hanged or baniſhed, or goods taken away. So all people may ſee that this was to the <hi>Iews</hi> from the Heathen, and not to the Chriſtians; &amp; by this Doctrine you may juſtifie that the Apoſtles did ill in preaching the Name of Chriſt when the Council forbad them. And we do chal<g ref="char:EOLhyphen"/>lenge all the Prieſts in Chriſtendom for to make it good, and give us an Example where ever the Apo<g ref="char:EOLhyphen"/>ſtles, that came before Emperors, Kings, &amp; Powers, that preached up this for Goſpel or Doctrine, or preached it among themſelves that were gathered into one body, into the faith and belief of Truth as it was in Jeſus, who came to ſave mens lives &amp; give li<g ref="char:EOLhyphen"/>berty, and not to ſpoil mens goods; that was never preached up by Chriſt &amp; the Apoſtles, but ſuch as are Miniſters of the Law, &amp; Heathens Decrees, &amp; buil<g ref="char:EOLhyphen"/>ders of the Jews Temples, which the Apoſtles and Chriſt brought them off from Heathens Decrees, and the Law, and the <hi>Jews</hi> Temples, and Types, and brought them to the ſubſtance <hi>(Chriſt)</hi> &amp; ended them.</p>
+            <p>And why do you not go and do the <hi>Jews</hi> work, if you be <hi>Jews,</hi> and build the Temple; which thing doth not belong to Chriſtians, but to you that preach <hi>Ar<g ref="char:EOLhyphen"/>taxerxes</hi> Decree; and you that preach that for Go<g ref="char:EOLhyphen"/>ſpel, knows not what it is; and preach from him, and not from Chriſt; and that people that are led by you, are led into Heatheniſm; who build up that which Chriſt and the Apoſtle throw down.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Wilſon,</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
